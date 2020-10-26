@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kyle",
+    "favoriteNumber": 3,
+    "isProgrammer": true,
+    "hobbies": [
+      "Weight Lifting",
+      "Bowling"
+    ],
+    "friends": [
+      {
+        "name": "Joey",
+        "favoriteNumber": 100,
+        "isProgrammer": false,
+        "hobbies": "Bowling"
+      },
+      {
+        "name": "David",
+        "favoriteNumber": 50,
+        "isProgrammer": true,
+        "hobbies": "running"
+      }
+    ]
+  },
+  {
+    "name": "Adam",
+    "favoriteNumber": 15,
+    "isProgrammer": true,
+    "hobbies": [
+      "Weight Lifting",
+      "hiking"
+    ],
+    "friends": [
+      {
+        "name": "Massi",
+        "favoriteNumber": 12,
+        "isProgrammer": true,
+        "hobbies": "swimming"
+      }
+    ]
+  }
+]
