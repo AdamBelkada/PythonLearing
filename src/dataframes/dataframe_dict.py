@@ -25,4 +25,4 @@ default_timeline = pd.DataFrame.from_records( default_timeline_source, columns=d
 default_timeline = default_timeline.convert_dtypes()
 
     # return default_timeline
-print (default_timeline)
+print (default_timeline["event_code"][1])
