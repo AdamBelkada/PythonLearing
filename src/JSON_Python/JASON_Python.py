@@ -30,8 +30,8 @@ print(df_book)
 
 # json.dumps(data)
 ##################################Read a JSON file#############################
-# User_Data = json.loads(open('user.json','r').read())
-# # print(User_Data)
+User_Data = json.loads(open('user.json','r').read())
+print(User_Data)
 # df_user = pd.DataFrame(User_Data)
 # print (df_user)
 

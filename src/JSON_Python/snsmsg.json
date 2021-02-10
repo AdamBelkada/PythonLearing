@@ -1,0 +1,26 @@
+{
+    "Type" : "Notification",
+    "MessageId" : "3fb7d453-8129-5e9e-a1a1-8cc3d5fbdaea",
+    "TopicArn" : "arn:aws:sns:us-west-2:002574268263:sns-sqs-lambda_notification",
+    "Subject" : "test sns lambda  params",
+    "Message" : "testing params from sns to lambda tttt",
+    "Timestamp" : "2021-01-31T06:47:46.013Z",
+    "SignatureVersion" : "1",
+    "Signature" : "M022Wim1jhHVMMZzPPriOZro/Un0xXt5GC+4qHPf6pEhN6wj55EKGPCb0k0fXJUYf2uWD8dds5fGQ14bWiMI92j6v15tuwAbOz7TH9eICfA9EM4r1g+XDQ5O6ublNvANRNGKyTdrBfcx4SFWOBcH5r87cS5AbBFJACu2oIfKC9iaAIktdL1vxCrIOYlEw0P6mCOx0slZME1eCWsHfR0Ht96W6baAXaexV35/ckp3f6InMYdHBmZ2qpqU2MmeHwLtGAi1nQCQGVBs0y12JgxEZCc+Uc/DDKFQerWH973K7jenGY2sWWApqqKm3yzFJsi33i0MwcZ626nOlhUBomRfig==",
+    "SigningCertURL" : "https://sns.us-west-2.amazonaws.com/SimpleNotificationService-010a507c1833636cd94bdb98bd93083a.pem",
+    "UnsubscribeURL" : "https://sns.us-west-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-west-2:002574268263:sns-sqs-lambda_notification:eb8e1517-1cfd-4e58-b4b8-6c44546bbb62",
+    "MessageAttributes" : {
+    "ProjectKey" : 
+    {
+        "Type": "Number",
+        "Value": "87"
+    }
+    ,
+    "AssetKey" : 
+    {
+        "Type": "Number",
+        "Value": "150"
+    }
+    
+    }
+    }

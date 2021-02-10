@@ -1,0 +1,4 @@
+2021-01-25 21:37:36 | INFO     | root | Log initialized.
+2021-01-25 21:37:36 | INFO     | root | This is a  message with user: Adam.Belkada
+2021-01-25 21:37:36 | INFO     | root | finished message from user:Adam.Belkada
+2021-01-25 21:37:38 | INFO     | root | Oops!that was no valid number. Try again...

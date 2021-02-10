@@ -1,0 +1,7 @@
+2021-01-25 21:21:57 | INFO     | root | Log initialized.
+2021-01-25 21:21:57 | INFO     | root | This is a  msg with user: Adam.Belkada
+2021-01-25 21:21:57 | ERROR    | root | division by zero
+Traceback (most recent call last):
+  File "c:\Users\adam.belkada\SourceControl\MyProjects\PythonLearing\src\logging\logging_messages.py", line 71, in main
+    a/b
+ZeroDivisionError: division by zero

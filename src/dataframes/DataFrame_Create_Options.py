@@ -39,3 +39,6 @@ data = [{'col_1': 3, 'col_2': 'a'},
         {'col_1': 0, 'col_2': 'd'}]
 df = pd.DataFrame.from_records(data)
 print (df)
+
+def get_data_frame ():
+      print ("Hello adam")

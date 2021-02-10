@@ -1,0 +1,10 @@
+asset_key                            string
+event_start                  datetime64[ns]
+event_end                    datetime64[ns]
+iec_category                         string
+event_code                            int32
+gads_id                               int32
+iec_category_reclassified            string
+event_code_reclassified               int32
+gads_id_reclassified                  int32
+event_reclassification_id             int32

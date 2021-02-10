@@ -1,4 +1,6 @@
+#%%
 import pandas as pd 
+import os
 #define a dictionary
 data = {
     'apples':[3,2,0,1],
@@ -16,8 +18,10 @@ purchases = pd.DataFrame(data)
 # print ("print June's purchase")
 # print(purchases_indexed.loc['June'])
 # print ("import csv data")
-# r_csv_purchase = pd.read_csv('purchases.csv',index_col=0)
-# print(r_csv_purchase)
+#%%
+print (os.getcwd())
+r_csv_purchase = pd.read_csv('purchases.csv',index_col=0)
+print(r_csv_purchase)
 # #print("export to CSV")
 # purchases_indexed.to_csv('new_purchases.csv')
 
